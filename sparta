@@ -1,2 +1,0 @@
-#!/bin/bash
-cd /usr/share/sparta/ && python sparta.py
